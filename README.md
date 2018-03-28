@@ -33,6 +33,14 @@
 
 <h4 id="1.1.2">Scala</h4>
 
+  - [scala|写点什么](http://hongjiang.info/scala/)&emsp;(一个记录大部分scala问题的博客)
+
+  - [scala school](http://twitter.github.io/scala_school/zh_cn/basics.html)&emsp;(scala基础教程)
+
+  - [scala文档](http://docs.scala-lang.org/tour/basics.html)
+
+
+
 <h4 id="1.1.3">Node.js</h4>
 
 <h4 id="1.1.4">Solidity</h4>
