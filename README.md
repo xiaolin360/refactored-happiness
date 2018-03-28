@@ -40,9 +40,12 @@
 
 
 <h4 id="1.2.1">博客</h4>
-- [就是以太坊](https://www.94eth.com/)
-- [陌生的山不知名的花](https://mshk.top/)
-- [深入浅出区块链](https://learnblockchain.cn/)
+
+  - [就是以太坊](https://www.94eth.com/)
+
+  - [陌生的山不知名的花](https://mshk.top/)
+
+  - [深入浅出区块链](https://learnblockchain.cn/)
 
 <h3 id="1.3">大数据</h3>
 
