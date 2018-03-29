@@ -58,6 +58,8 @@
 
   - [深入浅出区块链](https://learnblockchain.cn/)
 
+  - [区块链技术博客](http://me.tryblockchain.org/)
+
 <h2 id="1.3">大数据</h2>
 
 <h4 id="1.3.1">Hadoop</h4>
